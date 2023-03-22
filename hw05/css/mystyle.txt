@@ -1,8 +1,0 @@
-@font-face{
-    font-family: easyFont;
-    src: url(../src/easy.ttf) format('truetype');
-}
-@font-face{
-    font-family: mediumFont;
-    src: url(../src/medium.ttf) format('truetype');
-}
